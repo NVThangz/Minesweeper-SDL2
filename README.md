@@ -1,1 +1,4 @@
-# Minesweeper-Sdl2-
+# Minesweeper-Sdl2
+
+- MSSV:20020474
+- Ho
