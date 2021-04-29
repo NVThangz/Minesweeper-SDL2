@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1619609907 source:c:\c++\mine\main.cpp
+	"MINESWEEPER.h"
+
+1619527851 c:\c++\mine\sdl_utilities.h
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<time.h>
+
+1619611407 source:c:\c++\mine\sdl_utilities.cpp
+	"SDL_UTILITIES.h"
+
+1619629257 c:\c++\mine\minesweeper.h
+	"SDL_UTILITIES.h"
+
+1619614721 source:c:\c++\mine\minesweeper.cpp
+	"MINESWEEPER.h"
+
+1619662266 source:d:\mine\main.cpp
+	"MINESWEEPER.h"
+
+1619662462 d:\mine\minesweeper.h
+	"SDL_UTILITIES.h"
+
+1619661434 d:\mine\sdl_utilities.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<time.h>
+
+1619661656 source:d:\mine\minesweeper.cpp
+	"MINESWEEPER.h"
+
+1619661829 source:d:\mine\sdl_utilities.cpp
+	"SDL_UTILITIES.h"
+
