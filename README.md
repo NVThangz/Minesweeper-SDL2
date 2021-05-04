@@ -14,6 +14,7 @@
 ## Cách chơi
 - Nhấn chuột **trái** để mở ô
 - Nhấn chuột **phải** để cắm cờ nếu chắc chắn là ô có mìn
+- Số trên ô vuông được mở là số mìn ở 8 ô xung quanh
 ## Mục tiêu
 - **Điều kiện Thắng**: mở tất cả các ô mà không phải ô chứa mìn
 ## Độ khó
