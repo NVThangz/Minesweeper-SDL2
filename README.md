@@ -3,5 +3,6 @@
 - 20020474 - Nguyễn Việt Thắng
 # Cách chơi
 - Nhấn chuột trái để mở ô.
-- Nhấn chuột trái để cắm cờ ô.
-- Điều kiện thắng : mở được tất cả ô không phải bom
+- Nhấn chuột trái để cắm cờ.
+- **Điều kiện Thắng** mở tất cả các ô mà không phải ô chứa bom
+
