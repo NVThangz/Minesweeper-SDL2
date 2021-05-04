@@ -7,7 +7,7 @@
 - Nhấn escape hoặc nút X trên cửa sổ góc phải để thoát
 ## Thành phần game
 - bảng ô vuông trò chơi
-- bảng đếm ngược thời gian (tối đa 1000 giây)
+- bảng đếm ngược thời gian (tối đa 999 giây)
 - bảng đếm số mìn còn lại (tổng mìn - cờ)
 - bảng đếm số lần bảo vệ còn lại (3 lần) (bị trừ khi mở vào ô mìn)
 - nút menu để trở về menu
