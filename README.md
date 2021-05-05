@@ -1,6 +1,9 @@
 # Game Minesweeper
 - Viết bằng ngôn ngữ C++ và thư viện SDL2
 - 20020474 - Nguyễn Việt Thắng
+- Link down game: https://drive.google.com/file/d/1yBz3b9VO7tpSNlGRjvE60dfnAzbi3eVE/view?usp=sharing
+- sử dụng winrar để giải nén file Minesweeper.rar
+- vào Minesweeper\bin\Minesweeper.exe để chơi
 # Mô tả game
 ## Luồng hoạt động
 - Gồm menu, chọn độ khó và giao diện trò chơi
