@@ -22,3 +22,4 @@
 - **Trung bình (intermediate)**: bảng ô vuông 12 × 12 và 30 trái mìn
 - **Khó (expert)**: bảng ô vuông 16 × 16 và 50 trái mìn
 # Video demo game
+https://drive.google.com/file/d/1KPP9gQzNRTKHg99T-oe4acKO8CWNMm-E/view?usp=sharing
