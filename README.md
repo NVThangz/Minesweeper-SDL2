@@ -1,5 +1,5 @@
 # Game Minesweeper
-- Viết bằng ngôn ngữ C++ và thư viện SDL2
+- Viết bằng ngôn ngữ C++ và thư viện SDL2 trên Codeblock
 - 20020474 - Nguyễn Việt Thắng
 - Link down game: https://drive.google.com/file/d/1yBz3b9VO7tpSNlGRjvE60dfnAzbi3eVE/view?usp=sharing
 - sử dụng winrar để giải nén file Minesweeper.rar
